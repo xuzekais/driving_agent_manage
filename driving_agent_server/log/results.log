@@ -1,3 +1,8 @@
 2021-11-17 15:53:56 error [www]: GET /test Not Found
 2021-11-21 20:54:48 error [www]: GET /test Not Found
 2021-11-21 20:54:48 error [www]: GET /favicon.ico Not Found
+2021-11-23 22:57:18 error [www]: GET /test Not Found
+2021-11-23 22:57:19 error [www]: GET /favicon.ico Not Found
+2021-11-23 23:24:14 error [www]: GET /admin/user Not Found
+2021-11-23 23:24:26 error [www]: GET /admin/user/add Not Found
+2021-11-23 23:24:46 error [www]: GET /admin/user/add Not Found
